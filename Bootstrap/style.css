@@ -1,0 +1,64 @@
+.bgimage{
+	background-image:  url("Bg1.jpg");
+	background-size:  100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 660px;
+
+}
+.headerset{
+	padding-top: 250px;
+	text-align: center;
+	box-sizing: border-box;
+	color: #2F4F4F;
+}
+.headerset h2{
+	font-size: 43px;
+}
+.headerset h1{
+	font-size: 82px;
+}
+.ourservices{
+	padding-top: 50px;
+	
+}
+.ourservices h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.imgsetting{
+	border-radius: 50%;
+	height: 100px;
+	width:100px;
+}
+.fa-desktop
+{
+	padding-top: 20px;
+}
+.fa-shopping-cart
+{
+	padding-top: 20px;
+}
+.fa-lock
+{
+	padding-top: 20px;
+}
+.card{
+	margin-top: 50px;
+
+}
+.card img{
+	height: 250px;
+	width: 100%;
+	position: center;
+}
+.portfolio{
+
+	margin-top: 20px;
+	padding: 50px; 
+	width: 100%;
+}
+hover:{
+
+}
